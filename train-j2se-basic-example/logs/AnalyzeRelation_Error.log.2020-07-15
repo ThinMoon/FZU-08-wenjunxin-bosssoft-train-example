@@ -1,0 +1,4 @@
+2020-07-15 23:37:50,625 [com.bosssoft.hr.train.annotation.BaseModel remove] ERROR sql语句错误
+2020-07-15 23:37:51,991 [com.bosssoft.hr.train.annotation.BaseModel update] ERROR sql语句错误
+2020-07-15 23:37:53,001 [com.bosssoft.hr.train.annotation.BaseModel save] ERROR sql语句错误
+2020-07-15 23:37:54,935 [com.bosssoft.hr.train.annotation.BaseModel queryForList] ERROR 查询失败
